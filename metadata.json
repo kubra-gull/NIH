@@ -1,0 +1,6 @@
+{
+  "name": "National Immunization Hub",
+  "description": "Enterprise vaccine management, patient registration, inventory tracking, cold chain monitoring, and public health operations platform against 12 deadly diseases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
